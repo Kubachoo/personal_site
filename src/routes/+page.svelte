@@ -11,7 +11,7 @@
   main {
     position: relative;
     height: 100vh;
-    background-color: #white;
+    background-color: white;
     overflow: hidden;
   }
 </style>
